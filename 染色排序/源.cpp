@@ -10,6 +10,7 @@ void test1() {
 	cout << a;
 }
 
+//注释
 
 int main() {
 
